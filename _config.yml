@@ -1,4 +1,5 @@
 # Site Build Settings
+url: "https://www.egg-over-rice.tk"
 
 # jekyll-paginate configuration
 paginate:            5
