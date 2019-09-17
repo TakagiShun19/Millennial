@@ -15,7 +15,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "自分のホームページ"
+title:		           "自分のホームページを手に入れよう"
 description:	       "色々な卵かけご飯を紹介するサイトです"
 author:              "高木　駿"
 
