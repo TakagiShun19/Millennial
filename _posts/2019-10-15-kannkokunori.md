@@ -11,5 +11,5 @@ image: kannkokunori.jpg
 本気で皆様にオススメの卵かけご飯を紹介いたします。
 
 それがこちら韓国海苔ぶっかけTKGです！
-image: nori.jpg
+![Imgur](https://i.imgur.com/Qadp4cN.png)
 
