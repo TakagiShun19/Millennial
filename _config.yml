@@ -15,9 +15,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "自分のホームページを手に入れよう"
-description:	       "色々な卵かけご飯を紹介するサイトです"
-author:              "高木　駿"
+title:		           "NO TKG, NO LIFE"
+description:	       "卵かけご飯の全てを知りたい！"
+author:              "ShunTkg"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
